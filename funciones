@@ -1,6 +1,8 @@
 public static void main(String[]args){
 
 
-System.out.println("Estamos en clase de APOF 15-01-24")
+System.out.println("Estamos en clase de APOF 15-01-24");
+
+System.out.println("Estamos mostrando información por la pantalla");
 
 }
